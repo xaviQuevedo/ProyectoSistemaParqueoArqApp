@@ -6,7 +6,7 @@
 * Jorge Lopez 
 #### Autores: ####
 * Xavier Quevedo
-* Alex Aranda 
+* Nelson Aranda 
 
 ## Introducción
 En la wiki estimado lector va encontrar la documentación necesaria que proponemos para un sistema para parqueaderos, en las paginas consta la explicación de cada uno de las diagramas como : requerimientos y diagrama de caso de usos, la arquitectura explicada mediante diagramas de bloque, modelo de dominio puro y modelo de dominio con patrones de diseño y por ultimo modelo cuatro vistas + 1.
