@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed9ed9cc-d939-41bd-bf72-d31028fa80fc" name="Default Changelist" comment="" />
+    <list default="true" id="ed9ed9cc-d939-41bd-bf72-d31028fa80fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/utpl/backend_parqueaderos/GetUpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Espacio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Gestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Parqueadero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Persona.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +27,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WSiOhjFuJmOluUdQcFjybJnFSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\Desktop\ProyectoArquitectura\ProyectoSistemaParqueoArqApp\backend_parking\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,6 +64,53 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.GetUpServer">
+    <configuration name="GetUpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ec.edu.utpl.backend_parqueaderos.GetUpServer" />
+      <module name="ec.edu.utpl.backend_parqueaderos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.edu.utpl.backend_parqueaderos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ec.edu.utpl.backend_parqueaderos (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ec.edu.utpl.backend_parqueaderos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ec.edu.utpl.backend_parqueaderos (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ec.edu.utpl.backend_parqueaderos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ec.edu.utpl.backend_parqueaderos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ec.edu.utpl.backend_parqueaderos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetUpServer" />
+        <item itemvalue="JUnit.All in ec.edu.utpl.backend_parqueaderos (2)" />
+        <item itemvalue="JUnit.All in ec.edu.utpl.backend_parqueaderos (1)" />
+        <item itemvalue="JUnit.All in ec.edu.utpl.backend_parqueaderos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,5 +123,21 @@
       <updated>1579149366217</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

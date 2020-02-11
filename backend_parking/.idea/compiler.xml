@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="backend_parking" />
+        <module name="ec.edu.utpl.backend_parqueaderos" />
       </profile>
     </annotationProcessing>
   </component>

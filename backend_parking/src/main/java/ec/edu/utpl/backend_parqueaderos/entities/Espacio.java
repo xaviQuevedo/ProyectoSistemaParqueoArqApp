@@ -1,4 +1,4 @@
-package entities;
+package ec.edu.utpl.backend_parqueaderos.entities;
 
 public class Espacio {
     private int numero;
